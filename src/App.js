@@ -1,8 +1,8 @@
 import React from 'react';
-import ExpandingFlexCards from './component/ExpandingFlexCards';
+import ContactForm from './component/ContactForm';
 
 const App = () => {
-  return <ExpandingFlexCards />;
+  return <ContactForm />;
 };
 
 export default App;
