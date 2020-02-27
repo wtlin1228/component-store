@@ -1,8 +1,8 @@
 import React from 'react';
-import FlyCircleHeader from './component/FlyCircleHeader';
+import ExpandingFlexCards from './component/ExpandingFlexCards';
 
 const App = () => {
-  return <FlyCircleHeader />;
+  return <ExpandingFlexCards />;
 };
 
 export default App;
