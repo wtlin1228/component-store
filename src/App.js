@@ -1,10 +1,8 @@
 import React from 'react';
-// import Banner from './component/Banner';
-import TitleHoverMultiButton from './component/TitleHoverMultiButton';
+import FlyCircleHeader from './component/FlyCircleHeader';
 
 const App = () => {
-  // return <Banner />;
-  return <TitleHoverMultiButton />;
+  return <FlyCircleHeader />;
 };
 
 export default App;
