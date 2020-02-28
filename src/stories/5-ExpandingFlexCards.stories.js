@@ -1,5 +1,5 @@
 import React from 'react';
-import ExpandingFlexCards from '../component/ExpandingFlexCards';
+import ExpandingFlexCards from '../components/ExpandingFlexCards';
 
 export default {
   title: 'Expanding Flex Cards',

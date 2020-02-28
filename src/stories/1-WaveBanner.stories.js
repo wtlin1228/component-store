@@ -1,5 +1,5 @@
 import React from 'react';
-import WaveBanner from '../component/WaveBanner';
+import WaveBanner from '../components/WaveBanner';
 
 export default {
   title: 'Wave Banner',

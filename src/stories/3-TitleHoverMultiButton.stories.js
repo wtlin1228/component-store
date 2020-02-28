@@ -1,5 +1,5 @@
 import React from 'react';
-import TitleHoverMultiButton from '../component/TitleHoverMultiButton';
+import TitleHoverMultiButton from '../components/TitleHoverMultiButton';
 
 export default {
   title: 'Title Hover Multi Button',

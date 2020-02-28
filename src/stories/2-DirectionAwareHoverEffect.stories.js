@@ -1,5 +1,5 @@
 import React from 'react';
-import DirectionAwareHoverEffect from '../component/DirectionAwareHoverEffect';
+import DirectionAwareHoverEffect from '../components/DirectionAwareHoverEffect';
 
 export default {
   title: 'Direction Aware Hover Effect',

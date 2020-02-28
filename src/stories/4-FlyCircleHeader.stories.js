@@ -1,5 +1,5 @@
 import React from 'react';
-import FlyCircleHeader from '../component/FlyCircleHeader';
+import FlyCircleHeader from '../components/FlyCircleHeader';
 
 export default {
   title: 'Fly Circle Header',
